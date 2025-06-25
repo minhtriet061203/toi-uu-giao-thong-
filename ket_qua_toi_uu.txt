@@ -1,0 +1,53 @@
+=== KET QUA TOI UU HOA HE THONG DEN GIAO THONG ===
+
+Phuong phap: Toi uu mang luoi
+Ngay gio: 2025-06-06 16:11:55
+
+=== Nut A ===
+Chu ky: 137 giay
+Offset: 48 giay
+  North: Mat do=0.722, Xanh=94s, Vang=3s, Do=40s
+  South: Mat do=0.043, Xanh=94s, Vang=3s, Do=40s
+  East: Mat do=0.216, Xanh=33s, Vang=3s, Do=101s
+  West: Mat do=0.051, Xanh=33s, Vang=3s, Do=101s
+
+=== Nut B ===
+Chu ky: 137 giay
+Offset: 78 giay
+  North: Mat do=0.040, Xanh=29s, Vang=3s, Do=105s
+  South: Mat do=0.153, Xanh=29s, Vang=3s, Do=105s
+  East: Mat do=0.461, Xanh=98s, Vang=3s, Do=36s
+  West: Mat do=0.635, Xanh=98s, Vang=3s, Do=36s
+
+=== Nut C ===
+Chu ky: 137 giay
+Offset: 38 giay
+  North: Mat do=0.275, Xanh=95s, Vang=3s, Do=39s
+  South: Mat do=0.420, Xanh=95s, Vang=3s, Do=39s
+  East: Mat do=0.046, Xanh=32s, Vang=3s, Do=102s
+  West: Mat do=0.052, Xanh=32s, Vang=3s, Do=102s
+
+=== Nut D ===
+Chu ky: 137 giay
+Offset: 72 giay
+  North: Mat do=0.323, Xanh=73s, Vang=3s, Do=61s
+  South: Mat do=0.283, Xanh=73s, Vang=3s, Do=61s
+  East: Mat do=0.085, Xanh=54s, Vang=3s, Do=80s
+  West: Mat do=0.240, Xanh=54s, Vang=3s, Do=80s
+
+=== Nut E ===
+Chu ky: 137 giay
+Offset: 16 giay
+  North: Mat do=0.038, Xanh=39s, Vang=3s, Do=95s
+  South: Mat do=0.212, Xanh=39s, Vang=3s, Do=95s
+  East: Mat do=0.580, Xanh=88s, Vang=3s, Do=46s
+  West: Mat do=0.326, Xanh=88s, Vang=3s, Do=46s
+
+=== Nut F ===
+Chu ky: 137 giay
+Offset: 0 giay
+  North: Mat do=0.580, Xanh=66s, Vang=3s, Do=68s
+  South: Mat do=0.268, Xanh=66s, Vang=3s, Do=68s
+  East: Mat do=0.212, Xanh=61s, Vang=3s, Do=73s
+  West: Mat do=0.524, Xanh=61s, Vang=3s, Do=73s
+
